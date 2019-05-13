@@ -13,7 +13,6 @@ import random
 import numpy as np
 from math import *
 import math
-import time
 
        
 #METHOD TO FIND IF THE EQUATIONS ARE EQUAL TO EACH OTHER
